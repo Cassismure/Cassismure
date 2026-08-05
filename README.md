@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cassismure
-- 👀 I’m interested in software development 
-- 🌱 I’m currently learning python 
+- 👀 I’m interested in software development and health tech 
+- 🌱 I’m currently building projects
 - 💞️ I’m looking to collaborate on anythingg
 - 📫 How to reach me... okeleyetomilola@gmail.com
 - 😄 Pronouns: she/her
